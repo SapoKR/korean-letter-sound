@@ -1,6 +1,6 @@
 from gtts import gTTS
 
-n = 1834
+n = 1
 for i in range(44032 + (n - 1), 44032 + 11172):
     char = chr(i)
     def save():
